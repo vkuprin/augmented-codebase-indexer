@@ -103,7 +103,7 @@ This launches an interactive REPL (Read-Eval-Print Loop) with:
 
 ### Example Session
 
-```
+```text
 $ aci shell
 
     _    ____ ___   ____  _          _ _ 
